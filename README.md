@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on BI
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.** and eager to participate on open source django projects !
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
