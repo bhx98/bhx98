@@ -18,11 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on BI
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.** and eager to participate on open source django projects !
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🔭 I'm BI | SQL Developer, big fan of wrangling with data and whatever related to this field, eager ro participate in open source django project!
 
 - 💬 Ask me about SQL,BI,Python
 
