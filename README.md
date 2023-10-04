@@ -26,4 +26,4 @@
 
 - 💬 Ask me about SQL,BI,Python
 
-- 📫 Feel free to reach me out **baharahfallahi@gmail.com**
+- 📫 Reach me out **baharahfallahi@gmail.com**
