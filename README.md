@@ -11,8 +11,8 @@
 
 <!--h2 without bottom border-->
 <!--Intro start-->
-- 🔭 I'm BI | SQL Developer, big fan of wrangling with data and whatever related to this field, eager ro participate in open source project!
+- 🔭 I'm a BI | SQL Developer, a big fan of wrangling with data and whatever is related to this field, and eager to participate in open-source projects!
 
-- 💬 Ask me about SQL,BI,Python
+- 💬 Ask me about SQL, BI, Python
 
 - 📫 Reach me out **baharahfallahi@gmail.com**
