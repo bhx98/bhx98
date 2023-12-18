@@ -16,7 +16,6 @@
 
 - 📫 Reach me out **baharahfallahi@gmail.com**
 
-
   ![](https://komarev.com/ghpvc/?username=bhx98&color=blue)
 
   # 📊 GitHub Stats:
