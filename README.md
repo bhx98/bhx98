@@ -10,7 +10,7 @@
 </div>
 <!--h2 without bottom border-->
 <!--Intro start-->
-- 🔭 I'm a Software Developer, a big fan of wrangling with data and whatever is related to this field, and eager to participate in open-source projects!
+- 🔭 I'm a Software Developer, a big fan of wrangling with data and whatever is related to Data Science, and eager to participate in open-source projects!
 
 - 💬 Ask me about data and django
 
