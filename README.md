@@ -10,9 +10,10 @@
 </div>
 <!--h2 without bottom border-->
 <!--Intro start-->
-- 🔭 I'm a Software Developer, a big fan of wrangling with data and whatever is related to Data Science, and eager to participate in open-source projects!
-
-- 💬 Ask me about data 
+👋 Hi, I’m Bahareh Falahi.
+-👀 I’m interested in Data Analysis and Backend Developemtn.
+- 🌱 I’m currently working with Data Mostly based on Microsoft Stack(SQL.PowerBI and Python.
+💞️💬  I’m looking to collaborate on Data Analysis projects.
 
 - 📫 Reach me out **baharahfallahi@gmail.com**
 
