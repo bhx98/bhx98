@@ -10,10 +10,13 @@
 </div>
 <!--h2 without bottom border-->
 <!--Intro start-->
-👋 Hi, I’m Bahareh Falahi.
+-👋 Hi, I’m Bahareh Falahi.
+
 -👀 I’m interested in Data Analysis and Backend Developemtn.
+
 - 🌱 I’m currently working with Data Mostly based on Microsoft Stack(SQL.PowerBI and Python.
-💞️💬  I’m looking to collaborate on Data Analysis projects.
+  
+-💞️💬  I’m looking to collaborate on Data Analysis projects.
 
 - 📫 Reach me out **baharahfallahi@gmail.com**
 
