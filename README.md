@@ -13,7 +13,7 @@
 
 👀 I’m interested in Database Developemtn,Data Analysis and Backend Developement.
 
-🌱 I’m working  Mostly based on Microsoft Stack(SQL.PowerBI) and also Python.
+🌱 I’m working  mostly based on Microsoft Stack(SQL.PowerBI) and also Python.
 
 💞️💬  I’m looking to collaborate on Data Analysis projects.
 
