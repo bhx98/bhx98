@@ -11,9 +11,9 @@
 <!--h2 without bottom border-->
 <!--Intro start-->
 
-👀 I’m interested in Database Developemtn and Data Analysis also passionate alittle about Backend Developement.
+👀 I’m interested in Database Developemtn,Data Analysis and Backend Developement.
 
-🌱 I’m currently working with Data Mostly based on Microsoft Stack(SQL.PowerBI) and Python-django.
+🌱 I’m working  Mostly based on Microsoft Stack(SQL.PowerBI) and also Python.
 
 💞️💬  I’m looking to collaborate on Data Analysis projects.
 
