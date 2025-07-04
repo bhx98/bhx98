@@ -10,7 +10,9 @@
 </div>
 <!--h2 without bottom border-->
 <!--Intro start-->
-My name is Bahareh Falahi (pronouns: She/Her)
+
+My name is Bahareh Falahi (pronouns: She/Her).
+
 
 👀 I’m interested in Database Developemtn,Data Analysis and Backend Developement.
 
