@@ -14,7 +14,7 @@
 My name is Bahareh Falahi (pronouns: She/Her).
 
 
-👀 I’m interested in Database Developemtn,Data Analysis and Backend Developement.
+👀 I’m interested in Database Development,Data Analysis and Backend Developement.
 
 🌱 I’m working  mostly based on Microsoft Stack(SQL.PowerBI) and Python.
 
