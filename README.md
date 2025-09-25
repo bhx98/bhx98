@@ -1,7 +1,7 @@
 **About Me:**
-- **Role:** Data Analyst & Backend Developer 
+- **Role:** Data Analyst  
 - **Interests:** Database Architecture, Data Storytelling, API Development
-- **Tech Stack:** Microsoft SQL Server, Power BI, Python,django
+- **Tech Stack:** Microsoft SQL Server, Power BI, Python
 - **Focus:** Building scalable data solutions and turning complex datasets into clear, actionable reports.
 
 **Collaboration:**
