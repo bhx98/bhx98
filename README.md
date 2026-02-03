@@ -5,7 +5,7 @@
 - **Focus:** Building scalable data solutions and turning complex datasets into clear, actionable reports.
 
 **Collaboration:**
-- I'm eager to collaborate on Data Analysis and Database Development projects.
+- I'm eager to collaborate on open source projects 
 
 **Get in Touch:**
 - 📫 Email: baharahfallahi@gmail.com
